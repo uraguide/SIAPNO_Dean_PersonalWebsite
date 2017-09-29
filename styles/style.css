@@ -28,6 +28,39 @@ body {margin:0;}
 	
 .main {
 	float: center;
-	
+}
+
+.bottomFooter{
+	background:#efefef;
+	padding:20px 0;
+	margin-top:60px;
+	font-size:12px;
+	color:#666666;
+	border-top: 1px solid #e5e5e5;
+}
+
+.bottomFooter .bLogo{
+	text-transform: uppercase;
+	color:#111111;
+	position:relative;
+}
+
+.bottomFooter .bLogo:after {
+    border-bottom: 2px solid #111111;
+    content: "";
+    display: block;
+    position: absolute;
+    right: 1px;
+    top: 15px;
+    width: 10px;
+    z-index: 0;
+}
+
+.bottomFooter .right{
+	float:right;
+}
+
+.bottomFooter .right i{
+	color:#da4856;
 }
 
