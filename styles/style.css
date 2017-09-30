@@ -69,13 +69,13 @@ body, html {
   color: white;
 }
 
-footer{
+/*footer{
     padding: 5px;
     color: #4CAF50;
     background-color: black;
     clear: left;
     text-align: center;
-}
+}*/
 
 .footer {
   position: absolute;
