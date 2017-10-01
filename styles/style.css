@@ -71,11 +71,12 @@ body, html {
 
 .screen {
 	text-align:center;
-	width: 1000px;
-	height: 1000px;
+	
 	margin: 0 auto;
-	float:left;
-}		
+	background-position: center;
+	top: 0%;
+	left: 0%;
+}			
 
 
 
