@@ -69,13 +69,13 @@ body, html {
   color: white;
 }
 
-/*footer{
-    padding: 5px;
-    color: #4CAF50;
-    background-color: black;
-    clear: left;
-    text-align: center;
-}*/
+.screen {
+	
+	width: 1000px;
+	height: 1000px;
+}		
+
+
 
 .footer {
  
