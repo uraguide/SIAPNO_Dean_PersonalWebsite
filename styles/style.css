@@ -71,12 +71,20 @@ body, html {
 
 .screen {
 	text-align:center;
-	
 	margin: 0 auto;
+	height: 850px;
 	background-position: center;
 	top: 0%;
 	left: 0%;
-}			
+}		
+ 
+.photos {
+	float:center;
+	width: 250px;
+	height: 220px;
+	margin: 0 auto;
+	
+}	
 
 
 
